@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@google-cloud/functions-framework": "^3.3.0",
+    "@google-cloud/secret-manager": "^5.0.1",
+    "@google-cloud/tasks": "^4.0.1",
+    "mongodb": "^6.3.0"
+  }
+}
